@@ -28,7 +28,7 @@
       "Address": "https://jrres.github.io/Game/",
       "url": "Demo",
       "description": "This playable demo I made in a few weeks uses the javascript canvas to render images, text, and code with the request animation frame library. It has a simple leveling system, conditional checks with objects in the game, and a simple combat system with damage events, etc.",
-      "time": "4m",
+      "time": "2w",
       "completed": true,
       "status": "completed",
       "tags": ["Game Dev", "Game Design", "pixels", "javascript canvas"]
