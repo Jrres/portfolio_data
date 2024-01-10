@@ -34,16 +34,15 @@
       "tags": ["Game Dev", "Game Design", "pixels", "javascript canvas"]
     },
     {
-      "name": "My Unity Game",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg",
-      "Address": "https://jrres.github.io/Game/",
-      "url": "video",
-      "description": "In dedicating a month to developing a 3D game using Unity, I manipulated asset models through character controllers, C# scripts, and navigation meshes. Meticulously crafting scripts for various components, including movement, collision detection, animation states, and combat mechanics, was integral. Additionally, I implemented an interactive user interface (UI) facilitating game initiation, character customization, and interaction with non-playable characters (NPCs). The NPC system, integrated with Unity's AI library, employed navigation meshes for guiding NPCs along random points in the game map, dynamically responding to user-initiated attack states. Throughout the development, I expanded my knowledge in lighting, textures, and visual elements, incorporating effects like blood decals. However, the game remains unreleased, as there are still aspects of game development for me to explore and learn."
-      "time": "1m",
-      "completed": false,
-      "status": "in development",
-      "tags": ["Unity Engine","Game Dev", "Game Design", "3d", "animations", "AI", "C#"]
-    },
-    
+    "name": "My Unity Game",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg",
+    "Address": "https://jrres.github.io/Game/",
+    "url": "video",
+    "description": "In dedicating a month to developing a 3D game using Unity, I manipulated asset models through character controllers, C# scripts, and navigation meshes. Meticulously crafting scripts for various components, including movement, collision detection, animation states, and combat mechanics, was integral. Additionally, I implemented an interactive user interface (UI) facilitating game initiation, character customization, and interaction with non-playable characters (NPCs). The NPC system, integrated with Unity's AI library, employed navigation meshes for guiding NPCs along random points in the game map, dynamically responding to user-initiated attack states. Throughout the development, I expanded my knowledge in lighting, textures, and visual elements, incorporating effects like blood decals. However, the game remains unreleased, as there are still aspects of game development for me to explore and learn.",
+    "time": "1m",
+    "completed": false,
+    "status": "in development",
+    "tags": ["Unity Engine","Game Dev", "Game Design", "3d", "animations", "AI", "C#"]
+  }
   ]
 }
