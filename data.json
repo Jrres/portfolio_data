@@ -32,6 +32,18 @@
       "completed": true,
       "status": "completed",
       "tags": ["Game Dev", "Game Design", "pixels", "javascript canvas"]
-    }
+    },
+    {
+      "name": "Playable Browser Demo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg",
+      "Address": "https://jrres.github.io/Game/",
+      "url": "video",
+      "description": "In the process of developing a 3D game using Unity, I dedicated a month to the project. This involved manipulating asset models through character controllers, C# scripts, and navigation meshes. I meticulously crafted scripts for various components, each responsible for distinct functionalities such as movement, collision detection, animation states, and combat mechanics. Furthermore, I implemented an interactive user interface (UI) that facilitates game initiation, character customization, and interaction with non-playable characters (NPCs). The NPC system, integrated with Unity's AI library, utilized navigation meshes to guide NPCs along random points within the game map. These NPCs also responded dynamically to attack states initiated by the user. Throughout the development, I expanded my knowledge in areas like lighting, textures, and the incorporation of visual elements such as decals, including effects like blood. The game is not released yet because there are still many things for me to learn about game development.",
+      "time": "1m",
+      "completed": false,
+      "status": "in development",
+      "tags": ["Unity Engine","Game Dev", "Game Design", "3d", "animations", "AI", "C#"]
+    },
+    
   ]
 }
