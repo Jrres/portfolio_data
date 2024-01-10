@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "Lolmetrics",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-872a966297484acd0efe49f34edd5aed",
+      "url": "Lolmetrics",
+      "Address": "https://www.lolmetric.com/",
+      "description": "Lolmetrics is a website that provides polling and quizzing features about League of Legends content. It's a counterpart to the well-established analytics websites like Op.gg and U.gg that only look at gameplay statistics. By using Lolmetrics, users can create a community where they share common interests and diverging sentiments about anything League of Legends related. Lolmetrics provides fast CRUD operations such as creating, updating, and deleting polls and quizzes utilizing a serverless Firebase backend. The frontend is Vue3 with many UI/UX packages.",
+      "time": "1y",
+      "status": "in development",
+      "completed": false,
+      "tags": ["polling", "quizzing", "league of legends"]
+    },
+    {
+      "name": "Frontend-Recipe",
+      "image": "https://www.savoryexperiments.com/wp-content/uploads/2022/10/Marry-Me-Chicken-17.jpg",
+      "Address": "https://dev.dpo1dk26fq0tl.amplifyapp.com/",
+      "url": "RecipeFinder",
+      "description": "Recipe Finder is a webapp that showcases recipes that you look up. It uses the Edamam API to make simple queries to fetch recipe information. It includes all of the nutritional data per recipe and the instructions required to make each dish. This project was developed for my Software Engineering course at GSU where my group and I implemented an agile methodology in the software development cycle.",
+      "time": "4m",
+      "completed": true,
+      "status": "completed",
+      "tags": ["Search", "Food", "Health", "Fitness"]
+    },
+    {
+      "name": "Playable Browser Demo",
+      "image": "https://www.savoryexperiments.com/wp-content/uploads/2022/10/Marry-Me-Chicken-17.jpg",
+      "Address": "https://dev.dpo1dk26fq0tl.amplifyapp.com/",
+      "url": "RecipeFinder",
+      "description": "Recipe Finder is a webapp that showcases recipes that you look up. It uses the Edamam API to make simple queries to fetch recipe information. It includes all of the nutritional data per recipe and the instructions required to make each dish. This project was developed for my Software Engineering course at GSU where my group and I implemented an agile methodology in the software development cycle.",
+      "time": "4m",
+      "completed": true,
+      "status": "completed",
+      "tags": ["Search", "Food", "Health", "Fitness"]
+    }
+  ]
+}
