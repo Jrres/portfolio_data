@@ -25,13 +25,13 @@
     {
       "name": "Playable Browser Demo",
       "image": "https://github.com/Jrres/portfolio_data/blob/main/294fb14b0d802a2bbf49699cfc6212a4.png",
-      "Address": "https://dev.dpo1dk26fq0tl.amplifyapp.com/",
-      "url": "RecipeFinder",
-      "description": "Recipe Finder is a webapp that showcases recipes that you look up. It uses the Edamam API to make simple queries to fetch recipe information. It includes all of the nutritional data per recipe and the instructions required to make each dish. This project was developed for my Software Engineering course at GSU where my group and I implemented an agile methodology in the software development cycle.",
+      "Address": "https://jrres.github.io/Game/",
+      "url": "Demo",
+      "description": "This playable demo I made in a few weeks uses the javascript canvas to render images, text, and code with the request animation frame library. It has a simple leveling system, conditional checks with objects in the game, and a simple combat system with damage events, etc.",
       "time": "4m",
       "completed": true,
       "status": "completed",
-      "tags": ["Search", "Food", "Health", "Fitness"]
+      "tags": ["Game Dev", "Game Design", "pixels", "javascript canvas"]
     }
   ]
 }
